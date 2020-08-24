@@ -109,8 +109,8 @@ h2 {
     -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-    background: url(images/logo.png) none repeat scroll 0 0 #fff;
-  background: url(images/logo.png) none repeat scroll 0 0 #f9f9f9;
+    background: none repeat scroll 0 0 #fff;
+  background: none repeat scroll 0 0 #f9f9f9;
 }
 .sk-spinner-wordpress.sk-spinner {
   background-color: #3366CC;
