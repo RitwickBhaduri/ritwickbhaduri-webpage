@@ -49,12 +49,20 @@ h2 {
   color: #fff;
 }
 
-.is,.skills{
+.skills{
   padding-right: 0px;
   padding-left: 40px;
   padding-top: 40px;
   padding-bottom: 40px;
   min-height: 330px;
+}
+
+.is{
+  padding-right: 0px;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  min-height: 420px;
 }
 
 .experience {
@@ -88,12 +96,12 @@ h2 {
   padding-left: 40px;
   padding-top: 40px;
   padding-bottom: 40px;
-  min-height: 366px;
+  min-height: 378px;
 }
 
 .languages {
   padding: 40px;
-  min-height: 20px;
+  min-height: 274px;
 }
 
 .contact {
@@ -118,7 +126,7 @@ h2 {
 }
 
 .languages {
-  margin-top: 95px;
+  margin-top: 30px;
 }
 
 @font-face {
